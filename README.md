@@ -69,16 +69,48 @@
 </table>
 
 #### 🙋 𝖧𝗈𝗐 𝗍𝗈 𝗋𝖾𝖺𝖼𝗁 𝗆𝖾
-You can reach me via email **`hi@gadiel.dev`** or through my **[LinkedIn]**.
 
+> You can reach me via email **`hi@gadiel.dev`** or through my **[LinkedIn]**.
+
+#### ✨ 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌 𝗌𝗁𝗈𝗐𝖼𝖺𝗌𝖾
+
+> List of the projects I made that I like the most.
+
+<details> 
+  <summary><b>Show me</b></summary>
+  <p align='left'> 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=machadogadiel&repo=Bookstore)](https://livraria-react-phi.vercel.app/)
+
+  </p>
+
+<p align='center'> 
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=machadogadiel&repo=api-hunt)](https://machadogadiel.github.io/api-hunt/)
+
+  </p>
+
+
+  <p align='right'> 
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=machadogadiel&repo=minimal-calculator)](https://minimal-calculator.vercel.app/)
+
+  </p>
+
+</details>
+
+
+
+
+#### 📅 𝖬𝗒 𝖦𝗂𝗍𝗁𝗎𝖻 𝖲𝗍𝖺𝗍𝗂𝗌𝗍𝗂𝖼𝗌
 <details>
-  <summary><b>My Github Statistics</b></summary>
+  <summary align='left'><b>Show me</b></summary>
   <br/>
-    <p align="center">
-         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadogadiel&hide=html&layout=compact&langs_count=8" />
-    </p>
 
 ![Metrics](https://metrics.lecoq.io/machadogadiel?template=classic&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&config.timezone=America%2FSao_Paulo)
+    <p align="left">
+         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadogadiel&hide=html&layout=compact&langs_count=8" />
+    </p>
 </details>
 
 
