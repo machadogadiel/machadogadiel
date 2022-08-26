@@ -68,11 +68,13 @@
     </td>
   </tr>
 </table>
-<br>
-#### 🙋 𝖧𝗈𝗐 𝗍𝗈 𝗋𝖾𝖺𝖼𝗁 𝗆𝖾
-You can reach me via email **`hi@gadiel.dev`** or through my **[LinkedIn]**.
+
 <br>
 
+#### 🙋 𝖧𝗈𝗐 𝗍𝗈 𝗋𝖾𝖺𝖼𝗁 𝗆𝖾
+You can reach me via email **`hi@gadiel.dev`** or through my **[LinkedIn]**.
+
+<br>
 
 <details>
   <summary><b>My Github Statistics</b></summary>
