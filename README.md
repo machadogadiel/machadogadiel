@@ -16,7 +16,6 @@
 - 🧑🏽‍💻 I use daily: `.js`, `.html`, `.css`, `.svg`, `.jsx`, `.tsx`;
 - 🌱 Learning NextJS, Typescript and Tailwind;
 - 💁🏽‍♂️ Fun fact: People think I'm mexican.
-<br>
 
 #### ✦ 𝖥𝖺𝗏𝗈𝗎𝗋𝗂𝗍𝖾 𝗍𝖾𝖼𝗁
 
