@@ -1,5 +1,4 @@
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=machadogadiel&color=blue" alt="Profile views" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=machadogadiel&color=blue" alt="Profile views" /></p>
 
 <table align="right">
     <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -7,10 +6,11 @@
     <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-
 ### Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
+
 #### 𝖨'𝗆 𝖺 𝖥𝗎𝗅𝗅-𝖲𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖿𝗋𝗈𝗆 𝖢𝗎𝗋𝗂𝗍𝗂𝖻𝖺, 𝖯𝖺𝗋𝖺𝗇𝖺́ - 𝖡𝗋𝖺𝗓𝗂𝗅.
+
 
 #### ✦ 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾
 
