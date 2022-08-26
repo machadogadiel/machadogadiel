@@ -1,3 +1,6 @@
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=machadogadiel&color=blue" alt="Profile views" /> </p>
+
 <table align="right">
     <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
     <tr><td><a href="README_es.md"><img src="images/es-flag.png" height="13"> Español</a></td></tr>
@@ -5,7 +8,7 @@
 </table>
 
 
-### Hi there 👋
+### Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 #### 𝖨'𝗆 𝖺 𝖥𝗎𝗅𝗅-𝖲𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖿𝗋𝗈𝗆 𝖢𝗎𝗋𝗂𝗍𝗂𝖻𝖺, 𝖯𝖺𝗋𝖺𝗇𝖺́ - 𝖡𝗋𝖺𝗓𝗂𝗅.
 
@@ -100,9 +103,8 @@
 </details>
 
 
-
-
 #### 📅 𝖬𝗒 𝖦𝗂𝗍𝗁𝗎𝖻 𝖲𝗍𝖺𝗍𝗂𝗌𝗍𝗂𝖼𝗌
+
 <details>
   <summary align='left'><b>Show me</b></summary>
   <br/>
@@ -112,6 +114,5 @@
          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadogadiel&hide=html&layout=compact&langs_count=8" />
     </p>
 </details>
-
 
 [linkedin]: https://www.linkedin.com/in/gadiel-machado "Gadiel Machado LinkedIn"
