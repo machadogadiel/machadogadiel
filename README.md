@@ -14,8 +14,7 @@
 
 #### ✦ 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾
 
-- ✨ Currently developing my minimal calculator mini-project to sharpen my skills;
--  🚀 Actively searching for academic/professional opportunities;
+- ✨ Currently working at Medcloud
 - 🧑🏽‍💻 I use daily: `.js`, `.html`, `.css`, `.svg`, `.jsx`, `.tsx`;
 - 🌱 Learning NextJS, Typescript and Tailwind;
 - 💁🏽‍♂️ Fun fact: People think I'm mexican.
