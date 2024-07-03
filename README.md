@@ -16,7 +16,6 @@
 
 - ✨ Currently working at NHS
 - 🧑🏽‍💻 I use daily: `.js`, `.html`, `.css`, `.svg`, `.jsx`, `.tsx`;
-- 🌱 Learning NextJS, Typescript and Tailwind;
 
 #### ✦ 𝖥𝖺𝗏𝗈𝗎𝗋𝗂𝗍𝖾 𝗍𝖾𝖼𝗁
 
